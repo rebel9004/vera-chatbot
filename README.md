@@ -35,5 +35,5 @@ python tests/replay.py    # multi-turn conversation scenarios
 - **GitHub Codespaces**: Code → Codespaces → Create codespace. The bot starts automatically on port 8080 (set the port to Public).
 - **Render / Railway / Fly / Docker**: `render.yaml`, `Procfile` and `Dockerfile` are included. Keep it to one worker — state is held in memory.
 
-## What I'd add next
-Real appointment slots and review text from the business, per-customer purchase history, and a small database so state survives restarts.
+## Contact Information
+- PRANAV YADAV , DTU DELHI, 
